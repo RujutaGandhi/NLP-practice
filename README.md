@@ -6,3 +6,5 @@ Repo is for practicing basics in NLP techniques. There are four files to demonst
 3) NLTK - leading Python human language toolkit in Python
 4) Standford NLP to parse dependencies in grammatical structure. 
 5) NLP Practice - Identify top N topics in 100 news articles using LDA and TextBlob
+6) Classification model for Chicago health code data from text using sklearn, TFIDF Vectorizer
+7) Named Entity Recognition example - Identify entities / companies mentioned most frequently with Caterpillar. 
